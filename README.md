@@ -1,4 +1,4 @@
-# WebClient POST example
+# WebClient example
 
 ## IDE JVM Arguments
 
@@ -14,5 +14,5 @@ Endpoint will be called
 
 ```
 curl --location --request GET 'http://localhost:8080/webclient'
-```# webclientPostExample
-# webclient
+```
+
